@@ -1,4 +1,4 @@
-Excersises
+Exersises
 ==========
 
-My excersies
+Here's my first git repository where I'm going to push my exersises.
