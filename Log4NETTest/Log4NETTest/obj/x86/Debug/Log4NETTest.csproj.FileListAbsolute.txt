@@ -1,0 +1,6 @@
+C:\Users\aleph\Documents\GitHub\Excersises\Log4NETTest\Log4NETTest\bin\Debug\Log4NETTest.exe
+C:\Users\aleph\Documents\GitHub\Excersises\Log4NETTest\Log4NETTest\bin\Debug\Log4NETTest.pdb
+C:\Users\aleph\Documents\GitHub\Excersises\Log4NETTest\Log4NETTest\obj\x86\Debug\Log4NETTest.exe
+C:\Users\aleph\Documents\GitHub\Excersises\Log4NETTest\Log4NETTest\obj\x86\Debug\Log4NETTest.pdb
+C:\Users\aleph\Documents\GitHub\Excersises\Log4NETTest\Log4NETTest\bin\Debug\Log4NETTest.exe.config
+C:\Users\aleph\Documents\GitHub\Excersises\Log4NETTest\Log4NETTest\bin\Debug\log4net.dll
